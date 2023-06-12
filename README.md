@@ -94,7 +94,7 @@ To review the Microsoft Defender for Cloud recommendations, follow these steps:
   
 ### Task 3: Implement the Microsoft Defender for Cloud recommendation to enable Just in time VM Access
   
-  </summary> 
+</summary> 
   
 To implement the recommendation to enable Just in time VM Access on your virtual machine, follow these steps:
 
@@ -120,7 +120,7 @@ To implement the recommendation to enable Just in time VM Access on your virtual
 
   >**Note**: It may take some time for the implementation of recommendations to be reflected in the Secure Score. Periodically check the Secure Score to determine the impact of implementing these features.
   
-  </details>
+</details>
 
 Conclusion:
-In this lesson, you have learned how to configure and implement Microsoft Defender for Cloud in Azure. By following the tasks, you have successfully onboarded Microsoft Defender for Cloud, reviewed recommendations, and implemented Just in time VM Access. Microsoft Defender for Cloud provides enhanced security and threat protection for your cloud resources, helping you safeguard your Azure environment.
+In this lesson, I have learned how to configure and implement Microsoft Defender for Cloud in Azure. By following the tasks, I have successfully onboarded Microsoft Defender for Cloud, reviewed recommendations, and implemented Just in time VM Access. Microsoft Defender for Cloud provides enhanced security and threat protection for your cloud resources, helping one safeguard their Azure environment.
