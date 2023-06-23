@@ -1,8 +1,6 @@
 # Microsoft-Defender-for-Cloud
 
-<p align="center">
-<img src="https://github.com/0xbythesecond/Microsoft-Defender-for-Cloud/assets/23303634/1456ba8e-c14f-4d66-bdaf-de767253ea5d" height="80%" width="80%" alt="Microsoft Defender for Cloud"/>
-</p>  
+![Microsoft Defender for Cloud(2)](https://github.com/0xbythesecond/Microsoft-Defender-for-Cloud/assets/23303634/a6568d72-6dbd-4119-85ac-963f9ce9186d)
 
 ## Implementing Microsoft Defender for Cloud
 
