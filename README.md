@@ -1,4 +1,4 @@
-# Microsoft-Defender-for-Cloud
+# Microsoft Defender for Cloud
 
 ![Microsoft Defender for Cloud(2)](https://github.com/0xbythesecond/Microsoft-Defender-for-Cloud/assets/23303634/a6568d72-6dbd-4119-85ac-963f9ce9186d)
 
@@ -121,4 +121,6 @@ To implement the recommendation to enable Just in time VM Access on your virtual
 </details>
 
 Conclusion:
-In this lesson, I have learned how to configure and implement Microsoft Defender for Cloud in Azure. By following the tasks, I have successfully onboarded Microsoft Defender for Cloud, reviewed recommendations, and implemented Just in time VM Access. Microsoft Defender for Cloud provides enhanced security and threat protection for your cloud resources, helping one safeguard their Azure environment.
+In this lesson, I have learned how to configure and implement Microsoft Defender for Cloud in Azure. By following the tasks, I have successfully onboarded Microsoft Defender for Cloud, reviewed recommendations, and implemented Just in Time VM Access. Microsoft Defender for Cloud provides enhanced security and threat protection for your cloud resources, helping one safeguard their Azure environment.
+
+<p align="right">Continue to <a href="https://github.com/0xbythesecond/Microsoft-Sentinel">Microsoft Sentinel (SIEM)</a></p>
